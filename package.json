@@ -1,0 +1,20 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "Blog di Chris",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "watch": "--watch node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/palascinochristian/express-blog-routing.git"
+  },
+  "author": "Palascino Christian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/palascinochristian/express-blog-routing/issues"
+  },
+  "homepage": "https://github.com/palascinochristian/express-blog-routing#readme"
+}
