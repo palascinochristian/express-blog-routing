@@ -5,7 +5,7 @@
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
-    "watch": "--watch node app.js"
+    "watch": "node --watch app.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/palascinochristian/express-blog-routing/issues"
   },
-  "homepage": "https://github.com/palascinochristian/express-blog-routing#readme"
+  "homepage": "https://github.com/palascinochristian/express-blog-routing#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
